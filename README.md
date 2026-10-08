@@ -5,11 +5,26 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com/)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Video_Demo-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=zp7yOY6y98c)
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](https://github.com/d4ywalker)
 
 **Panel Theme Chaos** is a production-ready, dark-fantasy themed **Web Portal, Gateway, and Admin CMS Engine** tailored specifically for **Knight Online Private Server Realms**.
 
 Designed with immersive visuals, video background gateway, automated event schedules, downloadable client manager, and a secure backend administration dashboard.
+
+---
+
+## 馃摵 Live Video Demo & Walkthrough
+
+<div align="center">
+
+[![Watch Panel Theme Chaos Video Preview](https://img.youtube.com/vi/zp7yOY6y98c/hqdefault.jpg)](https://www.youtube.com/watch?v=zp7yOY6y98c)
+
+<br/>
+
+[![Watch on YouTube](https://img.shields.io/badge/鈻禵Watch_Panel_Demo_on_YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=zp7yOY6y98c)
+
+</div>
 
 ---
 
@@ -88,3 +103,4 @@ Developed by **[Nex2killer (d4ywalker)](https://github.com/d4ywalker)**
 - Discord: `ahmad.bai`
 - Facebook: [https://www.facebook.com/near.ahmad](https://www.facebook.com/near.ahmad)
 - Instagram: [@ahmadbaihaqi27](https://instagram.com/ahmadbaihaqi27)
+- YouTube: [Watch Demo Video](https://www.youtube.com/watch?v=zp7yOY6y98c)
