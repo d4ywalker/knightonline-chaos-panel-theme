@@ -14,7 +14,7 @@ Designed with immersive visuals, video background gateway, automated event sched
 
 ---
 
-## 馃摵 Live Video Demo & Walkthrough
+## Live Video Demo & Walkthrough
 
 <div align="center">
 
@@ -22,45 +22,45 @@ Designed with immersive visuals, video background gateway, automated event sched
 
 <br/>
 
-[![Watch on YouTube](https://img.shields.io/badge/鈻禵Watch_Panel_Demo_on_YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=zp7yOY6y98c)
+[![Watch on YouTube](https://img.shields.io/badge/Watch_Panel_Demo_on_YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=zp7yOY6y98c)
 
 </div>
 
 ---
 
-## 馃専 Core Modules & Features
+## Core Modules & Features
 
-### 馃彴 1. Gateway & Landing Portal (`index.html`)
+### 1. Gateway & Landing Portal (index.html)
 - **Cinematic Experience**: WebM video background integration with dynamic ambient audio support.
 - **Real-Time Online Counter**: Live player synchronization and display.
 - **Nation Gateway**: Two Nations (Elmorad & Karus) aesthetic entry point with fast navigation.
 
-### 馃搳 2. Main Player Dashboard (`main.html`)
+### 2. Main Player Dashboard (main.html)
 - **Server Status**: Live status check, active players, and uptime metrics.
 - **Top Rankings**: Integrated player rankings, nation war points, and clan ladders.
 - **Community Feed**: Quick announcements and links to Discord, Facebook, and Instagram.
 
-### 馃摪 3. News & Chronicles System (`news.html` / `news.js`)
+### 3. News & Chronicles System (news.html / news.js)
 - **Category Filtering**: Patch notes, server updates, events, and maintenance alerts.
 - **Rich Media Support**: Embedded images, patch logs, and server chronicles.
 
-### 馃摜 4. Client Downloads Manager (`download.html` / `download.js`)
+### 4. Client Downloads Manager (download.html / download.js)
 - **Multi-Mirror Downloads**: Direct drive, Mega, MediaFire, and Google Drive mirrors.
 - **System Requirements Check**: Minimum vs Recommended PC hardware specs.
 - **Client Integrity**: MD5 hash checker and installation guide.
 
-### 鈿旓笍 5. In-Game Event Scheduler (`event.html` / `event.js`)
+### 5. In-Game Event Scheduler (event.html / event.js)
 - **Automated Timers**: Lunar War, Border Defense War (BDW), Chaos, Jurassic Mountain (JR), and Under the Castle (UTC).
 - **Timezone Adjustment**: Automatic client-side countdown timer based on server schedule.
 
-### 馃攼 6. Secure Admin Panel & CMS (`admin.php` / `loginadmin.php`)
+### 6. Secure Admin Panel & CMS (admin.php / loginadmin.php)
 - **Live Configuration Editor**: Update server rates, maintenance mode, banners, and links directly from the GUI without touching code.
 - **Database Synchronization**: Built-in PHP & PDO bridge for Knight Online MS SQL / MySQL databases.
 - **Security**: Session-based authenticated admin dashboard.
 
 ---
 
-## 馃彈锔?Technical Architecture
+## Technical Architecture
 
 ```
 knightonline-chaos-panel-theme/
@@ -78,29 +78,35 @@ knightonline-chaos-panel-theme/
 
 ---
 
-## 馃敀 Full Source Code & Deployment Package Access
+## Full Source Code & Deployment Package Access
 
 This project is released under a **Proprietary Commercial / Sponsorware License**.  
 The full production-ready source code, database schemas, and turnkey deployment files are available exclusively for sponsors, server owners, and collaborators.
 
-### 馃拵 How to Unlock Full Source Code:
+### How to Unlock Full Source Code:
 
 1. **Reach out directly via Discord, Facebook, or Instagram:**
    - **Discord**: `ahmad.bai`
    - **Facebook**: [near.ahmad](https://www.facebook.com/near.ahmad)
    - **Instagram**: [@ahmadbaihaqi27](https://instagram.com/ahmadbaihaqi27)
 
-2. **Services Available:**
-   - 馃摝 Full source code ZIP package & database files.
-   - 馃洜锔?Custom theme branding, logo integration, and server-specific feature additions.
-   - 馃殌 Direct VPS / Web Hosting deployment & database configuration support.
+2. **Donation & Payment Channels:**
+   - **PayPal**: `vishaka.ahmad@gmail.com`
+   - **USDT (TRC-20 / TRON Network)**: `TY4KH1tfqfPTd3vQ2Vw4EzeEuKEmdsyyjL`
+
+3. **Services Available:**
+   - Full source code ZIP package & database files.
+   - Custom theme branding, logo integration, and server-specific feature additions.
+   - Direct VPS / Web Hosting deployment & database configuration support.
 
 ---
 
-## 馃懁 Author
+## Author & Payment Details
 
 Developed by **[Nex2killer (d4ywalker)](https://github.com/d4ywalker)**  
-- Discord: `ahmad.bai`
-- Facebook: [https://www.facebook.com/near.ahmad](https://www.facebook.com/near.ahmad)
-- Instagram: [@ahmadbaihaqi27](https://instagram.com/ahmadbaihaqi27)
-- YouTube: [Watch Demo Video](https://www.youtube.com/watch?v=zp7yOY6y98c)
+- **Discord**: `ahmad.bai`
+- **Facebook**: [https://www.facebook.com/near.ahmad](https://www.facebook.com/near.ahmad)
+- **Instagram**: [@ahmadbaihaqi27](https://instagram.com/ahmadbaihaqi27)
+- **YouTube**: [Watch Demo Video](https://www.youtube.com/watch?v=zp7yOY6y98c)
+- **PayPal**: `vishaka.ahmad@gmail.com`
+- **USDT (TRC-20)**: `TY4KH1tfqfPTd3vQ2Vw4EzeEuKEmdsyyjL`
